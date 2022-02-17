@@ -1,0 +1,5 @@
+Name Davletova Elvira
+Age 33
+Pets 0
+Salary 40000Rub
+
